@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a cloud hosting platform for the ISP : MiNET](https://github.com/minet/hostingproxmox)
 
-- 🔭 But also on [a iOS application with the aim to give to anyone a simple security solution to encrypt their data over unsecured messaging app](https://github.com/SeaweedbrainCY/iLocked)
+- 🔐 But also on [a iOS application with the aim to give to anyone a simple security solution to encrypt their data over unsecured messaging app](https://github.com/SeaweedbrainCY/iLocked)
 
 - 👨‍💻 All of my projects are available at [nathan.stchepinsky.net](nathan.stchepinsky.net)
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  nathan.stchepinsky[at]telecom-sudparis.eu
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
