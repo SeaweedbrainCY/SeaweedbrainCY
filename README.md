@@ -9,7 +9,12 @@
 <a href="https://github.com/minet/hostingproxmox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minet&repo=hostingproxmox" />
 </a>
-<a href="https://github.com/SeaweedbrainCY/iLocked">
+  <a href="https://github.com/SeaweedbrainCY/zero-totp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seaweedbraincy&repo=zero-totp" />
+</a>
+<br><br>
+  
+  <a href="https://github.com/SeaweedbrainCY/iLocked">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seaweedbraincy&repo=iLocked" />
 </a>
 </p>
