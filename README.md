@@ -3,17 +3,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seaweedbraincy&label=Profile%20views&color=0e75b6&style=flat" alt="seaweedbraincy" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seaweedbraincy" alt="seaweedbraincy" /></a> </p>
+
 <h3 align="left">🔭 I’m currently working on</h3>
 <p align="center">
+  <a href="https://github.com/SeaweedbrainCY/zero-totp" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seaweedbraincy&repo=zero-totp" />
+</a>
 <a href="https://github.com/minet/hostingproxmox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minet&repo=hostingproxmox" />
 </a>
-  <a href="https://github.com/SeaweedbrainCY/zero-totp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seaweedbraincy&repo=zero-totp" />
-</a>
 <br><br>
-  
   <a href="https://github.com/SeaweedbrainCY/iLocked">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seaweedbraincy&repo=iLocked" />
 </a>
@@ -26,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  nathan.stchepinsky[at]telecom-sudparis.eu
+  [nathan.stchepinsky.net](nathan.stchepinsky.net)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
