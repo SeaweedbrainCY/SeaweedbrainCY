@@ -19,7 +19,7 @@
 </p>
 
 
-- 👨‍💻 All of my projects are available at [https://nathan.stchepinsky.net](nathan.stchepinsky.net)
+- 👨‍💻 All of my projects are available at [nathan.stchepinsky.net](https://nathan.stchepinsky.net)
 
 - 📄 Know about my experiences [https://nathan.stchepinsky.net/source/cv_NATHAN_STCHEPINSKY.pdf](https://nathan.stchepinsky.net/source/cv_NATHAN_STCHEPINSKY.pdf)
 
