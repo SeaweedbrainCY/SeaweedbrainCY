@@ -9,12 +9,19 @@
   <a href="https://github.com/SeaweedbrainCY/zero-totp" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seaweedbraincy&repo=zero-totp" />
 </a>
-<a href="https://github.com/minet/hostingproxmox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minet&repo=hostingproxmox" />
+<a href="https://github.com/SeaweedbrainCY/zero-totp-rescue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeaweedbrainCY&repo=zero-totp-rescue" />
 </a>
 <br><br>
-  <a href="https://github.com/SeaweedbrainCY/iLocked">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seaweedbraincy&repo=iLocked" />
+  <a href="https://github.com/SeaweedbrainCY/zero-totp-admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seaweedbraincy&repo=zero-totp-admin" />
+</a>
+    <a href="https://github.com/SeaweedbrainCY/jellyfin-newsletter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seaweedbraincy&repo=jellyfin-newsletter" />
+</a>
+  <br><br>
+  <a href="https://github.com/SeaweedbrainCY/galera_cluster_healthcheck">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seaweedbraincy&repo=galera_cluster_healthcheck" />
 </a>
 </p>
 
